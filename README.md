@@ -4,3 +4,4 @@
 		<video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="1000" height="500" data-setup='{}'>
     		<source src="./src/z.m3u8" type="application/x-mpegURL">
  		</video>
+ > demo中m3u8路经为视频测试路经,根据自己需求进行更改
